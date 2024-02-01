@@ -1,2 +1,2 @@
-# a11ynotes
+# a11yNOTES
 My digital accessibility notebook
